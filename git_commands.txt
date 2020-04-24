@@ -6,3 +6,6 @@ git commit -m "my first commit"
 git remote add origin https://github.com/emailalavanya/recipefinder.git
 git push -u origin master
 
+--to clone the existing repo
+git clone https://github.com/emailalavanya/recipefinder.git
+
